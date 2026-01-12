@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "1%の革命前夜",
+  "base_artist": "Losstime Life",
+  "createdAt": "2026-01-12T07:45:31.104515Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "1%の革命前夜",
+      "artist": "Losstime Life",
+      "has_synced": false,
+      "path": "select/pl_01_1_の革命前夜_Losstime_Life.txt"
+    }
+  ]
+}
